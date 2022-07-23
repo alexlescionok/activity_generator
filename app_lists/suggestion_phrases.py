@@ -1,0 +1,1 @@
+phrases_list = ["What about...", "How about...", "Maybe this...", "Oh, how about...", "Oooh, what about..."]
