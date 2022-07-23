@@ -4,4 +4,4 @@ This is a simple app that suggests activities - from trying a new restaurant, to
 
 **Future development**
 
-I want to move this away from the terminal, maybe gamify the experience!
+I want to move this away from the terminal, maybe gamify the experience :video_game:
