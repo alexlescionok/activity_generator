@@ -1,1 +1,1 @@
-names_list = ['source /Users/alexlescionok/opt/anaconda3/bin/activate', 'alex']
+names_list = []
